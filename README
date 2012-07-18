@@ -1,2 +1,3 @@
 Contains sample tests using the Mocha Node.js framework
+
 Mostly a personal reference file although it does highlight some issues that need to be taken into consideration when designing Mocha tests (i.e. synchronous vs. asynchronous handling when dealing with dependent steps such as authentication)
